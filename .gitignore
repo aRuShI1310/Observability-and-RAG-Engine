@@ -1,0 +1,13 @@
+
+__pycache__/
+.venv/
+*.pyc
+chroma_store/
+.DS_Store
+
+# Streamlit & caches
+.streamlit/
+
+# Env and secrets (never commit)
+.env
+.env.local
